@@ -1,4 +1,7 @@
 # HeXA-Beginner-Study
+```Python
+print("Hello, world!")
+```
 HeXA Beginner Study에 오신 여러분을 환영합니다. 이 스터디에서는 여러분들의 컴퓨터공학과 생활에 필요하지만, 전공 강의에서는 시간상 다루지 못하는 내용 및 컴퓨터에 대한 이해를 돕는 넓고 얕은 지식을 다루고 있습니다.
 
 ## 구성
