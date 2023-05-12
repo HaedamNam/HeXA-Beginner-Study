@@ -10,7 +10,7 @@ HeXA Beginner Study에 오신 여러분을 환영합니다. 이 스터디에서�
 
 ### 진행 계획
 1. [환경설정과 `markdown`, 그리고 기초 컴퓨터 구조](./chapter1.md)
-2. Shell(`bash`)와 `Vim` 에디터
+2. [Shell(`bash`)와 `Vim` 에디터](./chaper2.html)
 3. Programming Language(Interpreting vs. Compiling) and Debugging
 4. CLE(Command Line Environment)
 5. Git(Version Control)
